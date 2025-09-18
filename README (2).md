@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swaraj-coder/CallQualityAnalyzer/blob/main/call_quality_analyzer.ipynb)
+
+
 # Call Quality Analyzer
 
 This project analyzes sales call recordings and returns:
